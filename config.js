@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
     title: "Yay! 🎉💝💖💝💓",
-    message: `Kema, my love… Of all the hearts in this world, yours found mine.
+    message: `Of all the hearts in this world, yours found mine.
 Come to me let me pull you into my arms,
 where every worry melts into a kiss.`,
     emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
